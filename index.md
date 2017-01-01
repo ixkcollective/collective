@@ -1,6 +1,3 @@
----
-title: ixk collective
----
 
 ## vision
 
