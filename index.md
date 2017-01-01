@@ -3,7 +3,7 @@
 
 ## mission
 
-## values and ethics
+## values, ethics and principles
 
 ## objectives
 
