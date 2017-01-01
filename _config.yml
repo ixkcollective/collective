@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-site.title: ixk collective
-site.description: a different way to survive in tough times
+site:
+  title: ixk collective
+  description: a different way to survive in tough times
