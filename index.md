@@ -1,4 +1,4 @@
-# ixk collective: community and creativity
+# ixk
 
 ## vision
 
