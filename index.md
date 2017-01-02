@@ -4,7 +4,9 @@
 ## mission
 
 ## values, ethics and principles
+
 ixk collective strives to:
+
  - focus on issues for marginalized people and communities
  - value each other for our inherent worth as people
  - value our lived experiences
@@ -16,7 +18,8 @@ ixk collective strives to:
  - respect personal agency and autonomy
  - assume positive intent
 
-ixkcollective is not:
+ixk collective is not:
+
  - hierarchical, patriarchal, or kyriearchal
  - capitalist (but must survive within it)
  - cissexist or cisnormative, transantagonistic, or transmisogynistic
