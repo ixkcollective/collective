@@ -14,7 +14,7 @@ ixk collective researches, deconstructs, redesigns, experiments, validates, and 
 
 ## values, ethics and principles
 
-ixk collective strives to:
+#### ixk collective strives to:
 
  - focus on issues for marginalized people and communities
  - value each other for our inherent worth as people
@@ -26,8 +26,9 @@ ixk collective strives to:
  - be consent based
  - respect personal agency and autonomy
  - assume positive intent
-
-ixk collective is not:
+ - prioritize and believe victims and survivors of abuse
+ 
+#### ixk collective is not:
 
  - hierarchical, patriarchal, or kyriearchal
  - racist or white supremacist
@@ -39,6 +40,10 @@ ixk collective is not:
  - capitalist (but must survive within it)
  - a place for harassers, trolls, nazis, fascists, abusers, or rapists
  - faux ally bullshit
+ 
+#### member code of conduct 
+
+#### vendor and client expectations
 
 ## objectives
 
@@ -51,5 +56,9 @@ ixk collective is not:
 ## process
 
 ## governance
+
+#### membership
+
+#### conflict resolution and harm reduction
 
 
