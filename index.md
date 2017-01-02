@@ -30,13 +30,13 @@ ixk collective strives to:
 ixk collective is not:
 
  - hierarchical, patriarchal, or kyriearchal
- - capitalist (but must survive within it)
- - cissexist or cisnormative, transantagonistic, or transmisogynistic
  - racist or white supremacist
  - sexist or misogynistic
  - heterosexist, heteronormative, or homoantagonistic
+ - cissexist, cisnormative, transantagonistic, or transmisogynistic
  - ableist
  - anti-sexworker
+ - capitalist (but must survive within it)
  - a place for harassers, trolls, nazis, fascists, abusers, or rapists
  - faux ally bullshit
 
