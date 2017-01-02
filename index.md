@@ -6,11 +6,11 @@ every day marginalized people must make a choice to put food on their table or t
 
 ## vision
 
-
+ixk collective exists to provide a framework for redefining work. to create spaces in which work leads to liberation and freedom. to build services and products for us and by us. to help others survive, learn, achieve their potential, and pay it forward. a place in which anyone can contribute no matter ability. a place where emotional labor and lived experience are valued. a place where everyone matters, simply because they are here with us.
 
 ## mission
 
-ixk collective exists to provide a framework for redefining work. to create spaces in which work leads to liberation and freedom. to build services and products for us and by us. to help others survive, learn, achieve their potential, and pay it forward. a place in which anyone can contribute no matter ability. a place where emotional labor and lived experience are valued. a place where everyone matters, simply because they are here with us.
+ixk collective researches, deconstructs, redesigns, experiments, validates, and distributes ways of working together to meet our vision. we are a support network of and for emotional labor, focusing on mentoring and supporting work that uplifts the most marginalized in our communities. when no one else will take a chance on you, we will.
 
 ## values, ethics and principles
 
