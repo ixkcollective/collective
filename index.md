@@ -37,7 +37,7 @@ ixk collective is not:
  - heterosexist, heteronormative, or homoantagonistic
  - ableist
  - anti-sexworker
- - a place for harassers, trolls, abusers, or rapists
+ - a place for harassers, trolls, nazis, fascists, abusers, or rapists
  - faux ally bullshit
 
 ## objectives
